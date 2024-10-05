@@ -1,11 +1,4 @@
 {
-    "scripts": {
-        "build": "nuxt build",
-        "dev": "nuxt dev",
-        "preview": "nuxt preview",
-        "generate": "nuxt generate",
-        "postinstall": "nuxt prepare"
-    },
     "devDependencies": {
         "nuxt": "^3.13.2"
     }
