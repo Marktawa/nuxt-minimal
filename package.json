@@ -1,4 +1,8 @@
 {
+    "scripts": {
+        "build": "nuxt build",
+        "dev": "nuxt dev"
+    },
     "devDependencies": {
         "nuxt": "^3.13.2"
     }
